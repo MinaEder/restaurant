@@ -1,0 +1,25 @@
+body {
+    background-color: linen;
+  }
+  
+  
+  h1 {
+    color: rgb(105, 185, 165);
+    margin-left: 40px;
+  }
+  p {
+    color: rgb(105, 185, 165);
+    margin-left: 40px;
+  }
+  a {
+      color: rgb(105, 185, 165);
+    margin-left: 40px;
+    }
+   ul{
+      color: rgb(105, 185, 165);
+    margin-left: 40px;
+    }
+  h2{
+      color: rgb(105, 185, 165);
+    margin-left: 40px;
+    } 
